@@ -2,6 +2,7 @@
 Scarica l'Uzi Forex EA libero e gratuito
 
 > **Chi dice che è impossibile, non dovrebbe disturbare chi ce la sta facendo**
+>
 > **Albert Einstein**
 
 Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4279) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
