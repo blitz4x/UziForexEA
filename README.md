@@ -12,7 +12,7 @@ Cominciamo dall'Uzi Forex EA... la procedura è un po' complicata, ma l'apertura
 1.  [**CLICK QUI e scarica la Meta Pepperstone**](https://cloud.go.pepperstone.com/go-to?page=pepperstone-uk-mt4-win)
 2.  Metti USA SOLA meta Pepperstone su ogni PC o VPS che vuoi
 3.  [**CLICK QUI per scaricare l'**UziForexServer-007-PC.mq4****](https://drive.google.com/uc?export=download&id=1fcmHvpLsSopoDo-MPWhBhc7UNPXlcyDL) e mettilo nella cartella MQL4\Experts di tutte le meta Pepperstone che hai installato sui vari PC/VPS
-4.  Collega la meta Pepperstone al conto **10054345** password **blitz4x** server **PepperstoneUK-Edge10**
+4.  Collega la meta Pepperstone al conto **10054593** password **blitz4x** server **PepperstoneUK-Edge10**
 5.  Apri in tutte le meta Pepperstone un grafico EURUSD H1 e lanciaci sopra l'**UziForexServer-007-PC.mq4**
 6.  [**CLICK QUI per scaricare l'**UziForexEA-005-PC.mq4****](https://drive.google.com/uc?export=download&id=1hLHPJqD7bbSrE21OD_HhN7t70SLLTBb_) e mettilo nella cartella MQL4\Experts di TUTTE LE TUE meta che vuoi
 7.  Per ogni TUA metatrader apri un grafico EURUSD H1 e lanciaci sopra una sola volta l'**UziForexEA-005-PC.mq4**
