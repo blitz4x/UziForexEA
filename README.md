@@ -5,7 +5,7 @@ Scarica l'Uzi Forex EA libero e gratuito
 >
 > **Albert Einstein**
 
-Sul sito [**https://forum.forexup.biz**](https://forum.forexup.biz/viewtopic.php?f=13&t=4279) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
+Sul sito [**https://blitz4x.com**](https://blitz4x.com) hai tutto lo spazio per dubbi, domande, ma soprattutto se hai idee, suggerimenti e miglioramenti
 
 Cominciamo dall'Uzi Forex EA... la procedura è un po' complicata, ma l'apertura, la chiusura, il trailing degli ordini DEVONO ESSERE IMMEDIATI e non possiamo permetterci nemmeno il ritardo della trasmissione internet
 
